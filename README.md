@@ -1,7 +1,7 @@
 # Assignment Enterprise Linux: SME infrastructure
 
-- Student: NAME
-- Repository: https://github/com/USER/REPO
+- Student: Mathias Hinneman
+- Repository: https://github.com/Pizzadoos/elnx-sme
 
 The goal of this assignment is to set up the infrastructure for a Small/Medium Enterprise (SME) in a virtualized environment using the [Ansible](https://ansible.com/) configuration management system. When you're finished, you should be able to recreate the entire infrastructure *from scratch* using a minimum of manual interventions, ideally a single command (`vagrant up`).
 
